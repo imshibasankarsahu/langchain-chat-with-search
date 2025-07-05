@@ -24,7 +24,7 @@ project32/
 
 1. **Clone the repo**:
 ```bash
-git clone https://github.com/your-username/project32.git
+git clone https://github.com/imshibasankarsahu/langchain-chat-with-search.git
 cd project32
 ```
 
