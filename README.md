@@ -53,12 +53,10 @@ streamlit run project32.py
 - `python-dotenv`
 - `duckduckgo-search`
 
-## 📸 Screenshot
 
-> ![screenshot](screenshot.png) *(optional if you add one)*
 
 ## 🚀 Credits
-Built by [Your Name] as part of the 30-Day GenAI Challenge 💥
+Built by [shiba sankar sahu] as part of the 30-Day GenAI Challenge 💥
 
 ---
 
